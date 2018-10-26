@@ -1,0 +1,11 @@
+.bg-black{
+  background-color: black;
+  color: white;
+}
+.logo{
+  display: inline;
+  max-height: 1.5rem;
+}
+.top{
+  flex-wrap: nowrap;
+}
