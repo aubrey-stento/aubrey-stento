@@ -33,8 +33,9 @@
     max-width: 50px; */
     /* position: absolute; */
     opacity: .5;
-    flex: 0 0 100%;
-    max-width: 100%;
+    /* flex: 0 0 100%; */
+   
+   
    
 }
 .img-text{
