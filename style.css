@@ -78,21 +78,26 @@
 
 }
 .devicon-javascript-plain{
-font-size: 10rem;
-padding-left:  20px;
+font-size: 7rem;
 }
 .devicon-bootstrap-plain{
-  font-size: 10rem;
+  font-size: 7rem;
 }
 .devicon-html5-plain{
-  font-size: 10rem;
+  font-size: 7rem;
 }
 .devicon-csharp-plain{
-  font-size: 10rem;
+  font-size: 7rem;
 
 }
 .devicon-dot-net-plain{
-  font-size: 10rem;
+  font-size: 7rem;
+}
+.devicon-vuejs-plain{
+  font-size: 7rem;
+}
+.devicon-mongodb-plain{
+  font-size: 7rem;
 }
 .sm-img{
   display: flex;
@@ -104,14 +109,15 @@ padding-left:  20px;
   justify-content: center;
 }
 .footer{
-  background-color: rgb(233, 227, 227);
+  background-color: rgb(46, 64, 83);
   display:flex;
   align-items: flex-start;
   margin-top: 30px;
-  height: 5rem;
+  height: 9rem;
 
 }
 .foot-text{
   display: flex;
   align-items: center;
-}
+  justify-content: center;
+  color: white;}
