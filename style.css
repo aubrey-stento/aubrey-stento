@@ -40,9 +40,16 @@
 }
 .img-text{
   position:absolute;
-  background-color: rgba(0, 0, 0, .075);
+  /* background-color: rgba(0, 0, 0, .075); */
   font-family: cursive;
   /* margin-top: 10rem; */
+}
+.img-text2{
+  /* position:absolute; */
+  /* background-color: rgba(0, 0, 0, .075); */
+  font-family: cursive;
+  /* margin-top: 10rem; */
+  justify-content: start;
 }
 .transbox {
   background-color: #ffffff;
@@ -131,8 +138,20 @@ font-size: 7rem;
   height: 9rem;
 
 }
+.header{
+  background-color: rgb(46, 64, 83);
+  display:flex;
+  height: 12rem;
+}
 .foot-text{
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;}
+
+
+  .foot-text2{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    color: white;}
